@@ -65,7 +65,7 @@ namespace PhonebookApplication
                 }
             }
 
-            
+            Console.ReadLine();
         }
 
     }
