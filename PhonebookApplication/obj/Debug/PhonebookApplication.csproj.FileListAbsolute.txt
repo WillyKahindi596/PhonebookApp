@@ -1,0 +1,7 @@
+C:\Users\first cash\source\repos\PhonebookApplication\PhonebookApplication\bin\Debug\PhonebookApplication.exe.config
+C:\Users\first cash\source\repos\PhonebookApplication\PhonebookApplication\bin\Debug\PhonebookApplication.exe
+C:\Users\first cash\source\repos\PhonebookApplication\PhonebookApplication\bin\Debug\PhonebookApplication.pdb
+C:\Users\first cash\source\repos\PhonebookApplication\PhonebookApplication\obj\Debug\PhonebookApplication.csprojAssemblyReference.cache
+C:\Users\first cash\source\repos\PhonebookApplication\PhonebookApplication\obj\Debug\PhonebookApplication.csproj.CoreCompileInputs.cache
+C:\Users\first cash\source\repos\PhonebookApplication\PhonebookApplication\obj\Debug\PhonebookApplication.exe
+C:\Users\first cash\source\repos\PhonebookApplication\PhonebookApplication\obj\Debug\PhonebookApplication.pdb
